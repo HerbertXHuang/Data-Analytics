@@ -1,3 +1,3 @@
 # Data-Analytics
-# This repository contains couple mini projects in data analytics!
-# Welcome to check them out!
+<l>This repository contains couple mini projects in data analytics!</l>
+<l>Welcome to check them out!</l>
